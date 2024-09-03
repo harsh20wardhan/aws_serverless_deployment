@@ -49,4 +49,4 @@ Contributions to improve this serverless deployment example are welcome! Fork th
 
 ## 📬 Contact
 
-For questions or suggestions, reach out via [LinkedIn]([https://www.linkedin.com/in/harsh20wardhan/](https://www.linkedin.com/in/harshwardhan-songirkar-04a9791b7/)) or open an issue.
+For questions or suggestions, reach out via [LinkedIn](https://www.linkedin.com/in/harshwardhan-songirkar-04a9791b7/) or open an issue.
